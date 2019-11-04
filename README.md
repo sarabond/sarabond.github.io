@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-[about](https://github.com/sarabond/sarabond.github.io/about)
+[about](https://sarabond.github.io/about)
 
 You can use the [editor on GitHub](https://github.com/sarabond/sarabond.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
