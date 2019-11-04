@@ -2,4 +2,4 @@
 
 1. [about](https://sarabond.github.io/about)
 2. [blog](url)
-3. [presentations and articles](url)
+3. [presentations and articles](https://sarabond.github.io/presentation)
