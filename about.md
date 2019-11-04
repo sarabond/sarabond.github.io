@@ -1,4 +1,4 @@
-##I love :coffee: :cat: :books: and :ramen:
+:coffee::cat::books:and:ramen:
 
 Twitter: [@cosmoslibrarian](https://twitter.com/cosmoslibrarian)
 
