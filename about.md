@@ -1,3 +1,3 @@
 ##I love :coffee: :cat: :books: and :ramen:
-Twitter: [@cosmoslibrarian] (https://twitter.com/cosmoslibrarian)
-Github: Sarabond
+Twitter: [@cosmoslibrarian](https://twitter.com/cosmoslibrarian)
+
